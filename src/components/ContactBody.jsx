@@ -69,7 +69,7 @@ export default function ImgMediaCard() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                View my Resume
+                Resume
               </a>
             </Button>
             <Button size="large" color="primary">
